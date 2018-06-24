@@ -1,0 +1,11 @@
+E:\dotnetcore代码\设计模式\适配器模式\AdapterPattern\bin\Debug\netcoreapp2.0\AdapterPattern.deps.json
+E:\dotnetcore代码\设计模式\适配器模式\AdapterPattern\bin\Debug\netcoreapp2.0\AdapterPattern.runtimeconfig.json
+E:\dotnetcore代码\设计模式\适配器模式\AdapterPattern\bin\Debug\netcoreapp2.0\AdapterPattern.runtimeconfig.dev.json
+E:\dotnetcore代码\设计模式\适配器模式\AdapterPattern\bin\Debug\netcoreapp2.0\AdapterPattern.dll
+E:\dotnetcore代码\设计模式\适配器模式\AdapterPattern\bin\Debug\netcoreapp2.0\AdapterPattern.pdb
+E:\dotnetcore代码\设计模式\适配器模式\AdapterPattern\obj\Debug\netcoreapp2.0\AdapterPattern.csprojAssemblyReference.cache
+E:\dotnetcore代码\设计模式\适配器模式\AdapterPattern\obj\Debug\netcoreapp2.0\AdapterPattern.csproj.CoreCompileInputs.cache
+E:\dotnetcore代码\设计模式\适配器模式\AdapterPattern\obj\Debug\netcoreapp2.0\AdapterPattern.AssemblyInfoInputs.cache
+E:\dotnetcore代码\设计模式\适配器模式\AdapterPattern\obj\Debug\netcoreapp2.0\AdapterPattern.AssemblyInfo.cs
+E:\dotnetcore代码\设计模式\适配器模式\AdapterPattern\obj\Debug\netcoreapp2.0\AdapterPattern.dll
+E:\dotnetcore代码\设计模式\适配器模式\AdapterPattern\obj\Debug\netcoreapp2.0\AdapterPattern.pdb

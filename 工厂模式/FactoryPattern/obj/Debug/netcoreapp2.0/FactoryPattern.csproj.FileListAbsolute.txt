@@ -1,0 +1,11 @@
+E:\dotnetcore代码\设计模式\工厂模式\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.deps.json
+E:\dotnetcore代码\设计模式\工厂模式\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.runtimeconfig.json
+E:\dotnetcore代码\设计模式\工厂模式\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.runtimeconfig.dev.json
+E:\dotnetcore代码\设计模式\工厂模式\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.dll
+E:\dotnetcore代码\设计模式\工厂模式\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.pdb
+E:\dotnetcore代码\设计模式\工厂模式\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.csprojAssemblyReference.cache
+E:\dotnetcore代码\设计模式\工厂模式\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.csproj.CoreCompileInputs.cache
+E:\dotnetcore代码\设计模式\工厂模式\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfoInputs.cache
+E:\dotnetcore代码\设计模式\工厂模式\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfo.cs
+E:\dotnetcore代码\设计模式\工厂模式\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.dll
+E:\dotnetcore代码\设计模式\工厂模式\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.pdb

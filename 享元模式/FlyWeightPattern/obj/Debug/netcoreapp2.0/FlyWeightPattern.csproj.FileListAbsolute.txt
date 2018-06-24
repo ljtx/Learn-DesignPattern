@@ -1,0 +1,11 @@
+E:\dotnetcore代码\设计模式\享元模式\FlyWeightPattern\obj\Debug\netcoreapp2.0\FlyWeightPattern.csprojAssemblyReference.cache
+E:\dotnetcore代码\设计模式\享元模式\FlyWeightPattern\obj\Debug\netcoreapp2.0\FlyWeightPattern.csproj.CoreCompileInputs.cache
+E:\dotnetcore代码\设计模式\享元模式\FlyWeightPattern\obj\Debug\netcoreapp2.0\FlyWeightPattern.AssemblyInfoInputs.cache
+E:\dotnetcore代码\设计模式\享元模式\FlyWeightPattern\obj\Debug\netcoreapp2.0\FlyWeightPattern.AssemblyInfo.cs
+E:\dotnetcore代码\设计模式\享元模式\FlyWeightPattern\bin\Debug\netcoreapp2.0\FlyWeightPattern.deps.json
+E:\dotnetcore代码\设计模式\享元模式\FlyWeightPattern\bin\Debug\netcoreapp2.0\FlyWeightPattern.runtimeconfig.json
+E:\dotnetcore代码\设计模式\享元模式\FlyWeightPattern\bin\Debug\netcoreapp2.0\FlyWeightPattern.runtimeconfig.dev.json
+E:\dotnetcore代码\设计模式\享元模式\FlyWeightPattern\bin\Debug\netcoreapp2.0\FlyWeightPattern.dll
+E:\dotnetcore代码\设计模式\享元模式\FlyWeightPattern\bin\Debug\netcoreapp2.0\FlyWeightPattern.pdb
+E:\dotnetcore代码\设计模式\享元模式\FlyWeightPattern\obj\Debug\netcoreapp2.0\FlyWeightPattern.dll
+E:\dotnetcore代码\设计模式\享元模式\FlyWeightPattern\obj\Debug\netcoreapp2.0\FlyWeightPattern.pdb

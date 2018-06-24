@@ -1,0 +1,11 @@
+C:\netcoreexercise\设计模式\模板方法\TemplatePattern\bin\Debug\netcoreapp2.0\TemplatePattern.deps.json
+C:\netcoreexercise\设计模式\模板方法\TemplatePattern\bin\Debug\netcoreapp2.0\TemplatePattern.runtimeconfig.json
+C:\netcoreexercise\设计模式\模板方法\TemplatePattern\bin\Debug\netcoreapp2.0\TemplatePattern.runtimeconfig.dev.json
+C:\netcoreexercise\设计模式\模板方法\TemplatePattern\bin\Debug\netcoreapp2.0\TemplatePattern.dll
+C:\netcoreexercise\设计模式\模板方法\TemplatePattern\bin\Debug\netcoreapp2.0\TemplatePattern.pdb
+C:\netcoreexercise\设计模式\模板方法\TemplatePattern\obj\Debug\netcoreapp2.0\TemplatePattern.csprojAssemblyReference.cache
+C:\netcoreexercise\设计模式\模板方法\TemplatePattern\obj\Debug\netcoreapp2.0\TemplatePattern.csproj.CoreCompileInputs.cache
+C:\netcoreexercise\设计模式\模板方法\TemplatePattern\obj\Debug\netcoreapp2.0\TemplatePattern.AssemblyInfoInputs.cache
+C:\netcoreexercise\设计模式\模板方法\TemplatePattern\obj\Debug\netcoreapp2.0\TemplatePattern.AssemblyInfo.cs
+C:\netcoreexercise\设计模式\模板方法\TemplatePattern\obj\Debug\netcoreapp2.0\TemplatePattern.dll
+C:\netcoreexercise\设计模式\模板方法\TemplatePattern\obj\Debug\netcoreapp2.0\TemplatePattern.pdb

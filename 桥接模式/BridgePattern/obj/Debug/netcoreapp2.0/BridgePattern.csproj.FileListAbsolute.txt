@@ -1,0 +1,11 @@
+E:\dotnetcore代码\设计模式\桥接模式\BridgePattern\bin\Debug\netcoreapp2.0\BridgePattern.deps.json
+E:\dotnetcore代码\设计模式\桥接模式\BridgePattern\bin\Debug\netcoreapp2.0\BridgePattern.runtimeconfig.json
+E:\dotnetcore代码\设计模式\桥接模式\BridgePattern\bin\Debug\netcoreapp2.0\BridgePattern.runtimeconfig.dev.json
+E:\dotnetcore代码\设计模式\桥接模式\BridgePattern\bin\Debug\netcoreapp2.0\BridgePattern.dll
+E:\dotnetcore代码\设计模式\桥接模式\BridgePattern\bin\Debug\netcoreapp2.0\BridgePattern.pdb
+E:\dotnetcore代码\设计模式\桥接模式\BridgePattern\obj\Debug\netcoreapp2.0\BridgePattern.csprojAssemblyReference.cache
+E:\dotnetcore代码\设计模式\桥接模式\BridgePattern\obj\Debug\netcoreapp2.0\BridgePattern.csproj.CoreCompileInputs.cache
+E:\dotnetcore代码\设计模式\桥接模式\BridgePattern\obj\Debug\netcoreapp2.0\BridgePattern.AssemblyInfoInputs.cache
+E:\dotnetcore代码\设计模式\桥接模式\BridgePattern\obj\Debug\netcoreapp2.0\BridgePattern.AssemblyInfo.cs
+E:\dotnetcore代码\设计模式\桥接模式\BridgePattern\obj\Debug\netcoreapp2.0\BridgePattern.dll
+E:\dotnetcore代码\设计模式\桥接模式\BridgePattern\obj\Debug\netcoreapp2.0\BridgePattern.pdb

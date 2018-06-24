@@ -1,0 +1,11 @@
+E:\dotnetcore代码\设计模式\建造者模式\BuilderPattern\bin\Debug\netcoreapp2.0\BuilderPattern.deps.json
+E:\dotnetcore代码\设计模式\建造者模式\BuilderPattern\bin\Debug\netcoreapp2.0\BuilderPattern.runtimeconfig.json
+E:\dotnetcore代码\设计模式\建造者模式\BuilderPattern\bin\Debug\netcoreapp2.0\BuilderPattern.runtimeconfig.dev.json
+E:\dotnetcore代码\设计模式\建造者模式\BuilderPattern\bin\Debug\netcoreapp2.0\BuilderPattern.dll
+E:\dotnetcore代码\设计模式\建造者模式\BuilderPattern\bin\Debug\netcoreapp2.0\BuilderPattern.pdb
+E:\dotnetcore代码\设计模式\建造者模式\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.csprojAssemblyReference.cache
+E:\dotnetcore代码\设计模式\建造者模式\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.csproj.CoreCompileInputs.cache
+E:\dotnetcore代码\设计模式\建造者模式\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.AssemblyInfoInputs.cache
+E:\dotnetcore代码\设计模式\建造者模式\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.AssemblyInfo.cs
+E:\dotnetcore代码\设计模式\建造者模式\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.dll
+E:\dotnetcore代码\设计模式\建造者模式\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.pdb

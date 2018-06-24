@@ -1,0 +1,11 @@
+C:\netcoreexercise\设计模式\代理模式\ProxyPattern\bin\Debug\netcoreapp2.0\ProxyPattern.deps.json
+C:\netcoreexercise\设计模式\代理模式\ProxyPattern\bin\Debug\netcoreapp2.0\ProxyPattern.runtimeconfig.json
+C:\netcoreexercise\设计模式\代理模式\ProxyPattern\bin\Debug\netcoreapp2.0\ProxyPattern.runtimeconfig.dev.json
+C:\netcoreexercise\设计模式\代理模式\ProxyPattern\bin\Debug\netcoreapp2.0\ProxyPattern.dll
+C:\netcoreexercise\设计模式\代理模式\ProxyPattern\bin\Debug\netcoreapp2.0\ProxyPattern.pdb
+C:\netcoreexercise\设计模式\代理模式\ProxyPattern\obj\Debug\netcoreapp2.0\ProxyPattern.csprojAssemblyReference.cache
+C:\netcoreexercise\设计模式\代理模式\ProxyPattern\obj\Debug\netcoreapp2.0\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\netcoreexercise\设计模式\代理模式\ProxyPattern\obj\Debug\netcoreapp2.0\ProxyPattern.AssemblyInfoInputs.cache
+C:\netcoreexercise\设计模式\代理模式\ProxyPattern\obj\Debug\netcoreapp2.0\ProxyPattern.AssemblyInfo.cs
+C:\netcoreexercise\设计模式\代理模式\ProxyPattern\obj\Debug\netcoreapp2.0\ProxyPattern.dll
+C:\netcoreexercise\设计模式\代理模式\ProxyPattern\obj\Debug\netcoreapp2.0\ProxyPattern.pdb

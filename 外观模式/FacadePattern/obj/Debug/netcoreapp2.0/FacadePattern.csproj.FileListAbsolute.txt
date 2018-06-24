@@ -1,0 +1,11 @@
+C:\netcoreexercise\设计模式\外观模式\FacadePattern\bin\Debug\netcoreapp2.0\FacadePattern.deps.json
+C:\netcoreexercise\设计模式\外观模式\FacadePattern\bin\Debug\netcoreapp2.0\FacadePattern.runtimeconfig.json
+C:\netcoreexercise\设计模式\外观模式\FacadePattern\bin\Debug\netcoreapp2.0\FacadePattern.runtimeconfig.dev.json
+C:\netcoreexercise\设计模式\外观模式\FacadePattern\bin\Debug\netcoreapp2.0\FacadePattern.dll
+C:\netcoreexercise\设计模式\外观模式\FacadePattern\bin\Debug\netcoreapp2.0\FacadePattern.pdb
+C:\netcoreexercise\设计模式\外观模式\FacadePattern\obj\Debug\netcoreapp2.0\FacadePattern.csprojAssemblyReference.cache
+C:\netcoreexercise\设计模式\外观模式\FacadePattern\obj\Debug\netcoreapp2.0\FacadePattern.csproj.CoreCompileInputs.cache
+C:\netcoreexercise\设计模式\外观模式\FacadePattern\obj\Debug\netcoreapp2.0\FacadePattern.AssemblyInfoInputs.cache
+C:\netcoreexercise\设计模式\外观模式\FacadePattern\obj\Debug\netcoreapp2.0\FacadePattern.AssemblyInfo.cs
+C:\netcoreexercise\设计模式\外观模式\FacadePattern\obj\Debug\netcoreapp2.0\FacadePattern.dll
+C:\netcoreexercise\设计模式\外观模式\FacadePattern\obj\Debug\netcoreapp2.0\FacadePattern.pdb

@@ -1,0 +1,11 @@
+E:\dotnetcore代码\设计模式\单例模式\SingletonPattern\bin\Debug\netcoreapp2.0\SingletonPattern.deps.json
+E:\dotnetcore代码\设计模式\单例模式\SingletonPattern\bin\Debug\netcoreapp2.0\SingletonPattern.runtimeconfig.json
+E:\dotnetcore代码\设计模式\单例模式\SingletonPattern\bin\Debug\netcoreapp2.0\SingletonPattern.runtimeconfig.dev.json
+E:\dotnetcore代码\设计模式\单例模式\SingletonPattern\bin\Debug\netcoreapp2.0\SingletonPattern.dll
+E:\dotnetcore代码\设计模式\单例模式\SingletonPattern\bin\Debug\netcoreapp2.0\SingletonPattern.pdb
+E:\dotnetcore代码\设计模式\单例模式\SingletonPattern\obj\Debug\netcoreapp2.0\SingletonPattern.csprojAssemblyReference.cache
+E:\dotnetcore代码\设计模式\单例模式\SingletonPattern\obj\Debug\netcoreapp2.0\SingletonPattern.csproj.CoreCompileInputs.cache
+E:\dotnetcore代码\设计模式\单例模式\SingletonPattern\obj\Debug\netcoreapp2.0\SingletonPattern.AssemblyInfoInputs.cache
+E:\dotnetcore代码\设计模式\单例模式\SingletonPattern\obj\Debug\netcoreapp2.0\SingletonPattern.AssemblyInfo.cs
+E:\dotnetcore代码\设计模式\单例模式\SingletonPattern\obj\Debug\netcoreapp2.0\SingletonPattern.dll
+E:\dotnetcore代码\设计模式\单例模式\SingletonPattern\obj\Debug\netcoreapp2.0\SingletonPattern.pdb
