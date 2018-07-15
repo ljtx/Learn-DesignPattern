@@ -1,0 +1,11 @@
+E:\dotnetcore代码\设计模式\新建文件夹\StatePattern\bin\Debug\netcoreapp2.0\StatePattern.deps.json
+E:\dotnetcore代码\设计模式\新建文件夹\StatePattern\bin\Debug\netcoreapp2.0\StatePattern.runtimeconfig.json
+E:\dotnetcore代码\设计模式\新建文件夹\StatePattern\bin\Debug\netcoreapp2.0\StatePattern.runtimeconfig.dev.json
+E:\dotnetcore代码\设计模式\新建文件夹\StatePattern\bin\Debug\netcoreapp2.0\StatePattern.dll
+E:\dotnetcore代码\设计模式\新建文件夹\StatePattern\bin\Debug\netcoreapp2.0\StatePattern.pdb
+E:\dotnetcore代码\设计模式\新建文件夹\StatePattern\obj\Debug\netcoreapp2.0\StatePattern.csprojAssemblyReference.cache
+E:\dotnetcore代码\设计模式\新建文件夹\StatePattern\obj\Debug\netcoreapp2.0\StatePattern.csproj.CoreCompileInputs.cache
+E:\dotnetcore代码\设计模式\新建文件夹\StatePattern\obj\Debug\netcoreapp2.0\StatePattern.AssemblyInfoInputs.cache
+E:\dotnetcore代码\设计模式\新建文件夹\StatePattern\obj\Debug\netcoreapp2.0\StatePattern.AssemblyInfo.cs
+E:\dotnetcore代码\设计模式\新建文件夹\StatePattern\obj\Debug\netcoreapp2.0\StatePattern.dll
+E:\dotnetcore代码\设计模式\新建文件夹\StatePattern\obj\Debug\netcoreapp2.0\StatePattern.pdb
